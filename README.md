@@ -21,7 +21,7 @@ Aquí no vas a encontrar frameworks de moda ni proyectos de escaparate. Vas a en
 
 ## 📌 Repositorios destacados
 
-- **[Reglas de detección KQL] (https://github.com/kinomakino/Reglas-KQL-SeguridadSi)** - Reglas de detección KQL para Azure Sentinel
+- **[Reglas de detección KQL](https://github.com/kinomakino/Reglas-KQL-SeguridadSi)** - Reglas de detección KQL para Azure Sentinel
 - **[Threat-Intelligence-Data](https://github.com/kinomakino/Threat-Intelligence-Data)** — Reglas Snort para detección de actores maliciosos.
 - **[ransomware_file_extensions](https://github.com/kinomakino/ransomware_file_extensions)** — Listado de extensiones de fichero usadas por familias de ransomware. Útil para reglas de detección y canary files.
 - **[REG_KEYS_MONITOR](https://github.com/kinomakino/REG_KEYS_MONITOR)** — Claves del registro de Windows que merece la pena monitorizar. Persistencia, ejecución, movimiento lateral.
